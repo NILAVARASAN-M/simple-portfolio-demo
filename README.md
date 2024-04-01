@@ -41,7 +41,8 @@ git clone https://github.com/NILAVARASAN-M/simple-portfolio-demo.git
 ```
 ## Check Out My Simple Portfolio  💼
 
-Click the below link to view my portfolio
+Click the link to view my portfolio 
+<a href="https://htmlpreview.github.io/?https://github.com/NILAVARASAN-M/simple-portfolio-demo/blob/master/simple_portfolio.html">click here to view</a>
 ```
 https://github.com/NILAVARASAN-M/simple-portfolio-demo/blob/master/simple_portfolio.html
 ```
