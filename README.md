@@ -6,7 +6,7 @@
 
 <div align="center">
 🔹
-<a href="https://htmlpreview.github.io/?https://github.com/NILAVARASAN-M/simple-portfolio-demo/blob/master/simple_portfolio.html">Click</a>
+<a href="https://htmlpreview.github.io/?https://github.com/NILAVARASAN-M/simple-portfolio-demo/blob/master/simple_portfolio.html">Click Here</a>
 </div>
 
 ![Html photo](temp.png)
